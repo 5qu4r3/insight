@@ -3,7 +3,7 @@
     "private": true,
     "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
   "version": "0.2.7D",
-    "repository": "https://github.com/decred/insight",
+    "repository": "https://github.com/5qu4r3/insight",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -27,9 +27,9 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/decred/insight/issues"
+    "url": "https://github.com/5qu4r3/insight/issues"
   },
-  "homepage": "https://github.com/decred/insight",
+  "homepage": "https://github.com/5qu4r3/insight",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -43,7 +43,7 @@
     "start": "INSIGHT_FORCE_RPC_SYNC=1 INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
   },
   "dependencies": {
-    "insight-bitcore-api": "git://github.com/decred/insight-api.git#master"
+    "insight-bitcore-api": "git://github.com/5qu4r3/insight-api.git#master"
   },
   "devDependencies": {
     "bower": "~1.2.8",
