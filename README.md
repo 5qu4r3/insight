@@ -12,7 +12,7 @@ Check some screenshots and more details at [insight's project homepage](http://i
 
 ## Prerequisites
 
-* **Node.js v0.10.x** - Download and Install [Node.js](http://www.nodejs.org/download/).
+* **Node.js v0.10.4** - Download and Install [Node.js](https://nodejs.org/en/blog/release/v0.10.4/).
 
 * **NPM** - Node.js package manager, should be automatically installed when you get node.js.
 
