@@ -43,7 +43,7 @@
     "start": "INSIGHT_FORCE_RPC_SYNC=1 INSIGHT_PUBLIC_PATH=public node node_modules/.bin/insight-bitcore-api"
   },
   "dependencies": {
-    "insight-bitcore-api": "git://github.com/5qu4r3/insight-api.git#master"
+    "insight-bitcore-api": "git://github.com/5qu4r3/insight-api-1.git#master"
   },
   "devDependencies": {
     "bower": "~1.2.8",
